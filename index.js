@@ -6,6 +6,7 @@ const taxonomyMatcher = require('google-taxonomy-matcher');
 // Amazon = "video Games", "Virtual Reality"
 // Walmart = "video Games", "Virtual Reality"
 
+// example input
 const productTilteArr = [
     "Oculus Quest 2 Advanced All-In-One Virtual Reality Headset 256GB NEW Other",
     "PC & Consoles VR Headsets Oculus Quest 2 Advanced All-In-One Virtual Reality Headset 256GB NEW Other",
@@ -13,7 +14,6 @@ const productTilteArr = [
     "PC & Consoles VR video games Oculus Quest 2 Advanced All-In-One Virtual Reality Headset 256GB NEW Other",
     "PC & Consoles VR Headsets Virtual Reality video Games Virtual Reality video Games Virtual Reality"
     //"Earbud Headphones Apple AirPods Pro"
-
     // "Graco Modes Nest Stroller | Baby Stroller with Height Adjustable Reversible Seat, Bassinet Mode, Extra Large Storage, Self Standing Fold and Lightweight Aluminum Frame, Spencer",
     // "WYOHLLVO Latest Version Stronger Outdoor Stove Portable Cast Iron Patio Cooking Burner High Pressure Gas Cooker with Metal Detachable Legs Stand Propane Burners for",
     // "Toy Rocket Launcher for kids – Shoots Up to 100 Feet – 8 Colorful Foam Rockets and Sturdy Launcher Stand With Foot Launch Pad - Fun Outdoor Toy for Kids - Gift Toys for Boys and Girls Age 3+ Years Old",
@@ -25,25 +25,12 @@ const productTilteArr = [
     // "Smoke Tubes for Pellets, VACNITE 12'' Pellet Smoker Tube, Up to 6 Hours of Smoke,2 Caps and Bonus Brush, Cold Hot Smoking,Portable Hexagonal Smoker Tube Fits Any Electric Gas Charcoal Grill or Smokers",
 ]
 
-// new taxonomyMatcher(<taxonomy locale>, <match threshold>)
-// <taxonomy locale> = the locale extension of the taxonomy file from Google 
-// <match threshold> = how close the search term must be to the matched result
+
 const matcher = new taxonomyMatcher('en-US', 100)
 
-async function quickstart(text) {
-
-    let t = 8
-
-   
-    // matcher.match(<search term>, <minisearch opts>)
-    // <search term> = Your unstructured search query, E.G. "product title + product category"
-    // <minisearch opts> see -> https://www.npmjs.com/package/minisearch
-    
+async function quickstart(text) {    
     console.log("Input title", text)
     console.log("Google textaxonomyamony", matcher.match(text).full_path)
-
-
-
 }
 
 
