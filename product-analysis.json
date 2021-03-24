@@ -1,0 +1,2708 @@
+{
+    "timestamp": 1616007965,
+    "status": "SUCCESS",
+    "statusCode": 200,
+    "statusMessage": "Ok",
+    "requestId": "a7e84775-bc4f-4bd7-b3e3-c23bc852706b",
+    "result": [
+        {
+            "timestamp": 1616004386,
+            "status": "SUCCESS",
+            "statusCode": 200,
+            "requestId": "7d8f5d7e-7b75-45c4-ac22-8f59683fc802",
+            "result": {
+                "itemDetails": {
+                    "aid": "AIDEWQI91001",
+                    "ids": {
+                        "UPC": [
+                            "192233049106"
+                        ],
+                        "EAN": [
+                            "0192233049106"
+                        ],
+                        "ASIN": [
+                            "B07H415XCM"
+                        ],
+                        "PARENT_ASIN": [
+                            "B07R7MK1FL"
+                        ]
+                    },
+                    "titles": {
+                        "en": "Amazon Basics Purple Washable School Glue Sticks, Dries Clear, 0.24-oz Stick, 30-Pack"
+                    },
+                    "model": "DP7-30",
+                    "color": "Purple",
+                    "size": "30-Pack",
+                    "brand": "Amazon Basics",
+                    "imageUrl": "https://m.media-amazon.com/images/I/41VmXREc2GL.jpg",
+                    "itemDimensions": {
+                        "width": {
+                            "value": 3.35,
+                            "unit": "INCH"
+                        },
+                        "length": {
+                            "value": 5.0,
+                            "unit": "INCH"
+                        },
+                        "height": {
+                            "value": 4.14,
+                            "unit": "INCH"
+                        },
+                        "weight": {
+                            "value": 21.6,
+                            "unit": "OUNCE"
+                        },
+                        "origin": "OFFICIAL"
+                    },
+                    "packageDimensions": {
+                        "width": {
+                            "value": 6.5,
+                            "unit": "INCH"
+                        },
+                        "length": {
+                            "value": 9.25,
+                            "unit": "INCH"
+                        },
+                        "height": {
+                            "value": 2.25,
+                            "unit": "INCH"
+                        },
+                        "weight": {
+                            "value": 0.97,
+                            "unit": "OUNCE"
+                        },
+                        "origin": "ALGOPIX_ESTIMATED"
+                    },
+                    "msrp": {
+                        "currencyCode": "USD",
+                        "amount": 8.93
+                    }
+                },
+                "offers": [
+                    {
+                        "marketBrand": "AMAZON",
+                        "countryCode": "US",
+                        "offers": {
+                            "NEW": {
+                                "marketPrice": {
+                                    "currencyCode": "USD",
+                                    "amount": 8.93
+                                },
+                                "marketPlaceFees": {
+                                    "currencyCode": "USD",
+                                    "amount": 1.34
+                                },
+                                "fbaSellingFees": {
+                                    "currencyCode": "USD",
+                                    "amount": 4.9
+                                },
+                                "taxAmount": {
+                                    "currencyCode": "USD",
+                                    "amount": 0.0
+                                },
+                                "listingUrl": "https://www.amazon.com/dp/B07H415XCM?th=1&psc=1"
+                            }
+                        },
+                        "timestamp": 1616004386,
+                        "marketSpecificData": {
+                            "objectType": "AMAZON",
+                            "marketSpecificProductTitle": "Amazon Basics Purple Washable School Glue Sticks, Dries Clear, 0.24-oz Stick, 30-Pack",
+                            "estimatedSalesRevenues": {
+                                "currencyCode": "USD",
+                                "amount": 25149.56
+                            },
+                            "estimatedUnitSold": 2816,
+                            "competition": {
+                                "objectType": "AMAZON",
+                                "level": "LOW",
+                                "numberOfOffers": 1,
+                                "lowestOfferFromReputableSeller": {
+                                    "price": {
+                                        "currencyCode": "USD",
+                                        "amount": 8.93
+                                    },
+                                    "sellerRating": {
+                                        "positiveFeedbackRating": "98-100%",
+                                        "numberOfSellerRatings": 138522
+                                    }
+                                },
+                                "lowestOffer": {
+                                    "price": {
+                                        "currencyCode": "USD",
+                                        "amount": 8.93
+                                    },
+                                    "sellerRating": {
+                                        "positiveFeedbackRating": "98-100%",
+                                        "numberOfSellerRatings": 138522
+                                    }
+                                },
+                                "buyBoxOffering": {
+                                    "price": {
+                                        "currencyCode": "USD",
+                                        "amount": 8.93
+                                    },
+                                    "sellerRating": {
+                                        "positiveFeedbackRating": "98-100%",
+                                        "numberOfSellerRatings": 138522
+                                    }
+                                },
+                                "amazonOfferState": "SOLD_BY_AMAZON"
+                            },
+                            "localAsin": "B07H415XCM",
+                            "amazonCategories": [
+                                {
+                                    "name": "Art and craft supply",
+                                    "id": "art_and_craft_supply_display_on_website",
+                                    "bestSellerRanking": 369
+                                },
+                                {
+                                    "name": "Glue Sticks & Pens",
+                                    "id": "1068996",
+                                    "bestSellerRanking": 4,
+                                    "ancestorsPathIds": [
+                                        "1064954",
+                                        "1084128",
+                                        "1069242",
+                                        "1069320",
+                                        "1069322"
+                                    ],
+                                    "ancestorsPathNames": [
+                                        "Office Products",
+                                        "Categories",
+                                        "Office & School Supplies",
+                                        "Tape, Adhesives & Fasteners",
+                                        "Adhesives & Glue"
+                                    ]
+                                },
+                                {
+                                    "name": "Art Glues & Pastes",
+                                    "id": "12890741",
+                                    "bestSellerRanking": 16,
+                                    "ancestorsPathIds": [
+                                        "2617941011",
+                                        "2617942011",
+                                        "378733011",
+                                        "8090710011",
+                                        "12890721"
+                                    ],
+                                    "ancestorsPathNames": [
+                                        "Arts, Crafts & Sewing",
+                                        "Categories",
+                                        "Crafting",
+                                        "Craft Supplies",
+                                        "Adhesives"
+                                    ]
+                                }
+                            ],
+                            "soldViaFBA": true,
+                            "numberOfOffersSoldViaFBA": 1,
+                            "customerRatingInfo": {
+                                "ratingScore": 4.7,
+                                "numberOfRaters": 4264
+                            }
+                        },
+                        "imageSet": [
+                            "https://m.media-amazon.com/images/I/41VmXREc2GL.jpg"
+                        ]
+                    },
+                    {
+                        "marketBrand": "EBAY",
+                        "countryCode": "US",
+                        "offers": {
+                            "NEW": {
+                                "marketPrice": {
+                                    "currencyCode": "USD",
+                                    "amount": 11.54
+                                },
+                                "marketPlaceFees": {
+                                    "currencyCode": "USD",
+                                    "amount": 1.04
+                                },
+                                "taxAmount": {
+                                    "currencyCode": "USD",
+                                    "amount": 0.0
+                                },
+                                "listingUrl": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=2&toolid=10044&campid=5337909775&customid=algopix-web&lgeo=1&vectorid=229466&item=133602412879",
+                                "insights": [
+                                    "LISTING_PRICE_INCLUDES_SHIPPING",
+                                    "CROSS_CHANNEL_COMPETITION",
+                                    "LISTING_IDENTIFIED_USING_KEYWORDS"
+                                ]
+                            }
+                        },
+                        "timestamp": 1616004386,
+                        "marketSpecificData": {
+                            "objectType": "EBAY",
+                            "marketSpecificProductTitle": "AmazonBasics Purple Washable School Glue Sticks, Dries Clear, 0.24-oz Stick, 30-",
+                            "eBayCategories": [
+                                {
+                                    "name": "Glue Guns & Sticks",
+                                    "id": "183124",
+                                    "ancestorsPathIds": [
+                                        "14339",
+                                        "28102",
+                                        "183122"
+                                    ],
+                                    "ancestorsPathNames": [
+                                        "Crafts",
+                                        "Multi-Purpose Craft Supplies",
+                                        "Adhesives & Tape"
+                                    ]
+                                }
+                            ],
+                            "competition": {
+                                "objectType": "EBAY",
+                                "level": "LOW"
+                            }
+                        },
+                        "imageSet": [
+                            "https://i.ebayimg.com/00/s/NTAwWDUwMA==/z/~uQAAOSwfGhf0bY6/$_1.JPG?set_id=8800005007",
+                            "https://i.ebayimg.com/00/s/NTAwWDUwMA==/z/7Y0AAOSwlXJf0bY6/$_1.JPG?set_id=8800005007",
+                            "https://i.ebayimg.com/00/s/NTAwWDUwMA==/z/c4QAAOSwQW9f0bY6/$_1.JPG?set_id=8800005007",
+                            "https://i.ebayimg.com/00/s/NTAwWDUwMA==/z/G94AAOSwTxhf0bY6/$_1.JPG?set_id=8800005007",
+                            "https://i.ebayimg.com/00/s/NTAwWDUwMA==/z/CzMAAOSwf9Rf0bY6/$_1.JPG?set_id=8800005007"
+                        ]
+                    },
+                    {
+                        "marketBrand": "AMAZON",
+                        "countryCode": "GB",
+                        "offers": {
+                            "NEW": {
+                                "marketPrice": {
+                                    "currencyCode": "USD",
+                                    "amount": 16.6
+                                },
+                                "marketPlaceFees": {
+                                    "currencyCode": "USD",
+                                    "amount": 2.54
+                                },
+                                "fbaSellingFees": {
+                                    "currencyCode": "USD",
+                                    "amount": 3.46
+                                },
+                                "taxAmount": {
+                                    "currencyCode": "USD",
+                                    "amount": 3.36
+                                },
+                                "listingUrl": "https://www.amazon.co.uk/dp/B07H415XCM?th=1&psc=1",
+                                "insights": [
+                                    "CROSS_CHANNEL_COMPETITION"
+                                ]
+                            }
+                        },
+                        "timestamp": 1616004386,
+                        "marketSpecificData": {
+                            "objectType": "AMAZON",
+                            "marketSpecificProductTitle": "Amazon Basics Purple Washable School Glue Sticks, Dries Clear, 7 ml Stick, 30-Pack",
+                            "estimatedSalesRevenues": {
+                                "currencyCode": "USD",
+                                "amount": 6992.96
+                            },
+                            "estimatedUnitSold": 421,
+                            "competition": {
+                                "objectType": "AMAZON",
+                                "level": "LOW",
+                                "numberOfOffers": 1,
+                                "lowestOfferFromReputableSeller": {
+                                    "price": {
+                                        "currencyCode": "USD",
+                                        "amount": 16.6
+                                    },
+                                    "sellerRating": {
+                                        "positiveFeedbackRating": "98-100%",
+                                        "numberOfSellerRatings": 138522
+                                    }
+                                },
+                                "lowestOffer": {
+                                    "price": {
+                                        "currencyCode": "USD",
+                                        "amount": 16.6
+                                    },
+                                    "sellerRating": {
+                                        "positiveFeedbackRating": "98-100%",
+                                        "numberOfSellerRatings": 138522
+                                    }
+                                },
+                                "buyBoxOffering": {
+                                    "price": {
+                                        "currencyCode": "USD",
+                                        "amount": 16.6
+                                    },
+                                    "sellerRating": {
+                                        "positiveFeedbackRating": "98-100%",
+                                        "numberOfSellerRatings": 138522
+                                    }
+                                },
+                                "amazonOfferState": "NOT_SOLD_BY_AMAZON"
+                            },
+                            "localAsin": "B07H415XCM",
+                            "amazonCategories": [
+                                {
+                                    "name": "Art and craft supply",
+                                    "id": "art_and_craft_supply_display_on_website",
+                                    "bestSellerRanking": 369
+                                },
+                                {
+                                    "name": "Glue Sticks & Pens",
+                                    "id": "1068996",
+                                    "bestSellerRanking": 4,
+                                    "ancestorsPathIds": [
+                                        "1064954",
+                                        "1084128",
+                                        "1069242",
+                                        "1069320",
+                                        "1069322"
+                                    ],
+                                    "ancestorsPathNames": [
+                                        "Office Products",
+                                        "Categories",
+                                        "Office & School Supplies",
+                                        "Tape, Adhesives & Fasteners",
+                                        "Adhesives & Glue"
+                                    ]
+                                },
+                                {
+                                    "name": "Art Glues & Pastes",
+                                    "id": "12890741",
+                                    "bestSellerRanking": 16,
+                                    "ancestorsPathIds": [
+                                        "2617941011",
+                                        "2617942011",
+                                        "378733011",
+                                        "8090710011",
+                                        "12890721"
+                                    ],
+                                    "ancestorsPathNames": [
+                                        "Arts, Crafts & Sewing",
+                                        "Categories",
+                                        "Crafting",
+                                        "Craft Supplies",
+                                        "Adhesives"
+                                    ]
+                                }
+                            ],
+                            "soldViaFBA": true,
+                            "numberOfOffersSoldViaFBA": 1,
+                            "customerRatingInfo": {
+                                "ratingScore": 4.7,
+                                "numberOfRaters": 4264
+                            }
+                        },
+                        "imageSet": [
+                            "https://m.media-amazon.com/images/I/41VmXREc2GL.jpg"
+                        ]
+                    },
+                    {
+                        "marketBrand": "WALMART",
+                        "countryCode": "US",
+                        "offers": {
+                            "NEW": {
+                                "marketPrice": {
+                                    "currencyCode": "USD",
+                                    "amount": 17.79
+                                },
+                                "marketPlaceFees": {
+                                    "currencyCode": "USD",
+                                    "amount": 2.67
+                                },
+                                "taxAmount": {
+                                    "currencyCode": "USD",
+                                    "amount": 0.0
+                                },
+                                "listingUrl": "http://c.affil.walmart.com/t/api01?l=https%3A%2F%2Fwww.walmart.com%2Fip%2FPurple-Washable-School-Glue-Sticks-Dries-Clear-0-24-oz-Stick-30-Pack%2F663833678%3Faffp1%3D%7Capk%7C%26affilsrc%3Dapi%26veh%3Daff%26wmlspartner%3Dreadonlyapi",
+                                "insights": [
+                                    "CROSS_CHANNEL_COMPETITION"
+                                ]
+                            }
+                        },
+                        "timestamp": 1616004386,
+                        "marketSpecificData": {
+                            "objectType": "WALMART",
+                            "marketSpecificProductTitle": "Purple Washable School Glue Sticks, Dries Clear, 0.24-oz Stick, 30-Pack",
+                            "walmartItemId": "663833678",
+                            "walmartCategories": [
+                                {
+                                    "id": "4305904",
+                                    "ancestorsPathIds": [
+                                        "1229749",
+                                        "1086045"
+                                    ],
+                                    "ancestorsPathNames": [
+                                        "Office Supplies",
+                                        "School Supplies"
+                                    ]
+                                }
+                            ],
+                            "estimatedSalesRevenues": {
+                                "currencyCode": "USD",
+                                "amount": 0.0
+                            },
+                            "estimatedUnitSold": 0,
+                            "competition": {
+                                "objectType": "WALMART",
+                                "level": "LOW"
+                            }
+                        },
+                        "imageSet": [
+                            "https://i5.walmartimages.com/asr/0ce3f697-e796-4455-bdd7-e283d9664704.5320afa04f938acf9f57f64af742ce39.jpeg?odnHeight=450&odnWidth=450&odnBg=FFFFFF"
+                        ]
+                    }
+                ],
+                "demand": {
+                    "GB": 9,
+                    "US": 9
+                }
+            }
+        },
+        {
+            "timestamp": 1616004387,
+            "status": "SUCCESS",
+            "statusCode": 200,
+            "requestId": "79e340c6-8098-4bfd-ad4f-69545a6d7861",
+            "result": {
+                "itemDetails": {
+                    "aid": "AIDO8UQ04001",
+                    "ids": {
+                        "UPC": [
+                            "717304150576"
+                        ],
+                        "EAN": [
+                            "0717304150576"
+                        ],
+                        "ASIN": [
+                            "B073FB1X1N"
+                        ],
+                        "MPN": [
+                            "689090"
+                        ],
+                        "ISBN": [
+                            "717304150576"
+                        ]
+                    },
+                    "titles": {
+                        "en": "Jack Richeson Clear Carve 36 Pack Etching Plate 5\" x 7\""
+                    },
+                    "model": "689090",
+                    "color": "Clear",
+                    "size": "5\" x 7\"",
+                    "brand": "Jack Richeson",
+                    "imageUrl": "https://m.media-amazon.com/images/I/31YPaB1k9wL.jpg",
+                    "itemDimensions": {
+                        "width": {
+                            "value": 7.0,
+                            "unit": "INCH"
+                        },
+                        "length": {
+                            "value": 5.0,
+                            "unit": "INCH"
+                        },
+                        "height": {
+                            "value": 1.08,
+                            "unit": "INCH"
+                        },
+                        "weight": {
+                            "value": 32.16,
+                            "unit": "OUNCE"
+                        },
+                        "origin": "OFFICIAL"
+                    },
+                    "packageDimensions": {
+                        "width": {
+                            "value": 9.0,
+                            "unit": "INCH"
+                        },
+                        "length": {
+                            "value": 12.1,
+                            "unit": "INCH"
+                        },
+                        "height": {
+                            "value": 0.45,
+                            "unit": "INCH"
+                        },
+                        "weight": {
+                            "value": 32.64,
+                            "unit": "OUNCE"
+                        },
+                        "origin": "OFFICIAL"
+                    },
+                    "msrp": {
+                        "currencyCode": "USD",
+                        "amount": 42.77
+                    }
+                },
+                "offers": [
+                    {
+                        "marketBrand": "AMAZON",
+                        "countryCode": "US",
+                        "offers": {
+                            "NEW": {
+                                "marketPrice": {
+                                    "currencyCode": "USD",
+                                    "amount": 35.99
+                                },
+                                "marketPlaceFees": {
+                                    "currencyCode": "USD",
+                                    "amount": 5.4
+                                },
+                                "fbaSellingFees": {
+                                    "currencyCode": "USD",
+                                    "amount": 5.42
+                                },
+                                "taxAmount": {
+                                    "currencyCode": "USD",
+                                    "amount": 0.0
+                                },
+                                "listingUrl": "https://www.amazon.com/dp/B073FB1X1N?th=1&psc=1"
+                            }
+                        },
+                        "timestamp": 1616004387,
+                        "marketSpecificData": {
+                            "objectType": "AMAZON",
+                            "marketSpecificProductTitle": "Jack Richeson Clear Carve 36 Pack Etching Plate 5\" x 7\"",
+                            "estimatedSalesRevenues": {
+                                "currencyCode": "USD",
+                                "amount": 215.94
+                            },
+                            "estimatedUnitSold": 6,
+                            "competition": {
+                                "objectType": "AMAZON",
+                                "level": "MEDIUM",
+                                "numberOfOffers": 4,
+                                "lowestOfferFromReputableSeller": {
+                                    "price": {
+                                        "currencyCode": "USD",
+                                        "amount": 35.99
+                                    },
+                                    "sellerRating": {
+                                        "positiveFeedbackRating": "98-100%",
+                                        "numberOfSellerRatings": 21618
+                                    }
+                                },
+                                "lowestOffer": {
+                                    "price": {
+                                        "currencyCode": "USD",
+                                        "amount": 35.99
+                                    },
+                                    "sellerRating": {
+                                        "positiveFeedbackRating": "98-100%",
+                                        "numberOfSellerRatings": 21618
+                                    }
+                                },
+                                "buyBoxOffering": {
+                                    "price": {
+                                        "currencyCode": "USD",
+                                        "amount": 35.99
+                                    },
+                                    "sellerRating": {
+                                        "positiveFeedbackRating": "98-100%",
+                                        "numberOfSellerRatings": 21618
+                                    }
+                                },
+                                "amazonOfferState": "DATA_NOT_AVAILABLE"
+                            },
+                            "localAsin": "B073FB1X1N",
+                            "amazonCategories": [
+                                {
+                                    "name": "Art and craft supply",
+                                    "id": "art_and_craft_supply_display_on_website",
+                                    "bestSellerRanking": 102603
+                                },
+                                {
+                                    "name": "Etching Materials",
+                                    "id": "2933744011",
+                                    "bestSellerRanking": 62,
+                                    "ancestorsPathIds": [
+                                        "2617941011",
+                                        "2617942011",
+                                        "12898451",
+                                        "12898501"
+                                    ],
+                                    "ancestorsPathNames": [
+                                        "Arts, Crafts & Sewing",
+                                        "Categories",
+                                        "Printmaking",
+                                        "Etching Supplies"
+                                    ]
+                                }
+                            ],
+                            "soldViaFBA": true,
+                            "numberOfOffersSoldViaFBA": 1,
+                            "customerRatingInfo": {
+                                "ratingScore": 5.0,
+                                "numberOfRaters": 3
+                            }
+                        },
+                        "imageSet": [
+                            "https://m.media-amazon.com/images/I/31YPaB1k9wL.jpg"
+                        ]
+                    },
+                    {
+                        "marketBrand": "WALMART",
+                        "countryCode": "US",
+                        "offers": {
+                            "NEW": {
+                                "marketPrice": {
+                                    "currencyCode": "USD",
+                                    "amount": 38.93
+                                },
+                                "marketPlaceFees": {
+                                    "currencyCode": "USD",
+                                    "amount": 5.84
+                                },
+                                "taxAmount": {
+                                    "currencyCode": "USD",
+                                    "amount": 0.0
+                                },
+                                "listingUrl": "http://c.affil.walmart.com/t/api01?l=https%3A%2F%2Fwww.walmart.com%2Fip%2FJack-Richeson-1591300-36-Clear-Carve-Etch-Plates-44-5-x-7-in-Pack-of-36%2F687497394%3Faffp1%3D%7Capk%7C%26affilsrc%3Dapi%26veh%3Daff%26wmlspartner%3Dreadonlyapi"
+                            }
+                        },
+                        "timestamp": 1616004387,
+                        "marketSpecificData": {
+                            "objectType": "WALMART",
+                            "marketSpecificProductTitle": "Jack Richeson 1591300 36 Clear Carve Etch Plates&#44; 5 x 7 in. - Pack of 36",
+                            "walmartItemId": "687497394",
+                            "walmartCategories": [
+                                {
+                                    "name": "Printmaking",
+                                    "id": "7659444",
+                                    "ancestorsPathIds": [
+                                        "1334134",
+                                        "6172404"
+                                    ],
+                                    "ancestorsPathNames": [
+                                        "Arts Crafts & Sewing",
+                                        "Crafting"
+                                    ]
+                                }
+                            ],
+                            "estimatedSalesRevenues": {
+                                "currencyCode": "USD",
+                                "amount": 62.29
+                            },
+                            "estimatedUnitSold": 1,
+                            "competition": {
+                                "objectType": "WALMART",
+                                "level": "LOW"
+                            }
+                        },
+                        "imageSet": [
+                            "https://i5.walmartimages.com/asr/eec7b723-8cdd-4bd4-8a8a-1e6a94fa7667_1.35a26b8932523f7baaa861cbafb161b2.jpeg?odnHeight=450&odnWidth=450&odnBg=FFFFFF"
+                        ]
+                    },
+                    {
+                        "marketBrand": "EBAY",
+                        "countryCode": "US",
+                        "offers": {
+                            "NEW": {
+                                "marketPrice": {
+                                    "currencyCode": "USD",
+                                    "amount": 50.46
+                                },
+                                "marketPlaceFees": {
+                                    "currencyCode": "USD",
+                                    "amount": 4.54
+                                },
+                                "taxAmount": {
+                                    "currencyCode": "USD",
+                                    "amount": 0.0
+                                },
+                                "listingUrl": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=2&toolid=10044&campid=5337909775&customid=algopix-web&lgeo=1&vectorid=229466&item=133655170206",
+                                "insights": [
+                                    "LISTING_IDENTIFIED_USING_KEYWORDS"
+                                ]
+                            }
+                        },
+                        "timestamp": 1616004387,
+                        "marketSpecificData": {
+                            "objectType": "EBAY",
+                            "marketSpecificProductTitle": "Jack Richeson Clear Carve Etch Plates, 5 x 7 Inches, Pack of 36",
+                            "eBayCategories": [
+                                {
+                                    "name": "Other Art Supplies",
+                                    "id": "16508",
+                                    "ancestorsPathIds": [
+                                        "14339",
+                                        "11783"
+                                    ],
+                                    "ancestorsPathNames": [
+                                        "Crafts",
+                                        "Art Supplies"
+                                    ]
+                                }
+                            ],
+                            "competition": {
+                                "objectType": "EBAY",
+                                "level": "LOW"
+                            }
+                        },
+                        "imageSet": [
+                            "https://i.ebayimg.com/00/s/MTYwMFgxNjAw/z/-~IAAOSwXIpgGssv/$_1.JPG?set_id=880000500F"
+                        ]
+                    },
+                    {
+                        "marketBrand": "AMAZON",
+                        "countryCode": "GB",
+                        "offers": {
+                            "NEW": {
+                                "marketPrice": {
+                                    "currencyCode": "USD",
+                                    "amount": 68.94
+                                },
+                                "marketPlaceFees": {
+                                    "currencyCode": "USD",
+                                    "amount": 0.0
+                                },
+                                "taxAmount": {
+                                    "currencyCode": "USD",
+                                    "amount": 13.96
+                                },
+                                "listingUrl": "https://www.amazon.co.uk/dp/B073FB1X1N?th=1&psc=1",
+                                "insights": [
+                                    "LISTING_PRICE_INCLUDES_SHIPPING",
+                                    "LISTED_BY_A_LOW_RANKED_SELLER"
+                                ]
+                            }
+                        },
+                        "timestamp": 1616004387,
+                        "marketSpecificData": {
+                            "objectType": "AMAZON",
+                            "marketSpecificProductTitle": "Jack Richeson 36 Pack Etching Plate 5\" x 7\"",
+                            "estimatedSalesRevenues": {
+                                "currencyCode": "USD",
+                                "amount": 137.87
+                            },
+                            "estimatedUnitSold": 2,
+                            "competition": {
+                                "objectType": "AMAZON",
+                                "level": "LOW",
+                                "numberOfOffers": 2,
+                                "lowestOfferFromReputableSeller": {
+                                    "price": {
+                                        "currencyCode": "USD",
+                                        "amount": 68.94
+                                    },
+                                    "sellerRating": {
+                                        "positiveFeedbackRating": "Just Launched",
+                                        "numberOfSellerRatings": 0
+                                    }
+                                },
+                                "lowestOffer": {
+                                    "price": {
+                                        "currencyCode": "USD",
+                                        "amount": 68.94
+                                    },
+                                    "sellerRating": {
+                                        "positiveFeedbackRating": "Just Launched",
+                                        "numberOfSellerRatings": 0
+                                    }
+                                },
+                                "buyBoxOffering": {
+                                    "price": {
+                                        "currencyCode": "USD",
+                                        "amount": 68.94
+                                    },
+                                    "sellerRating": {
+                                        "positiveFeedbackRating": "Just Launched",
+                                        "numberOfSellerRatings": 0
+                                    }
+                                },
+                                "amazonOfferState": "NOT_SOLD_BY_AMAZON"
+                            },
+                            "localAsin": "B073FB1X1N",
+                            "amazonCategories": [
+                                {
+                                    "name": "Art and craft supply",
+                                    "id": "art_and_craft_supply_display_on_website",
+                                    "bestSellerRanking": 102603
+                                },
+                                {
+                                    "name": "Etching Materials",
+                                    "id": "2933744011",
+                                    "bestSellerRanking": 62,
+                                    "ancestorsPathIds": [
+                                        "2617941011",
+                                        "2617942011",
+                                        "12898451",
+                                        "12898501"
+                                    ],
+                                    "ancestorsPathNames": [
+                                        "Arts, Crafts & Sewing",
+                                        "Categories",
+                                        "Printmaking",
+                                        "Etching Supplies"
+                                    ]
+                                }
+                            ],
+                            "soldViaFBA": false,
+                            "numberOfOffersSoldViaFBA": 0,
+                            "customerRatingInfo": {
+                                "ratingScore": 5.0,
+                                "numberOfRaters": 3
+                            }
+                        },
+                        "imageSet": [
+                            "https://m.media-amazon.com/images/I/31YPaB1k9wL.jpg"
+                        ]
+                    }
+                ],
+                "demand": {
+                    "GB": 2,
+                    "US": 2
+                }
+            }
+        },
+        {
+            "timestamp": 1616004387,
+            "status": "SUCCESS",
+            "statusCode": 200,
+            "requestId": "d115446d-134c-4a06-9a97-fee648f84ad5",
+            "result": {
+                "itemDetails": {
+                    "aid": "AIDSCO0M4001",
+                    "ids": {
+                        "UPC": [
+                            "767311946006"
+                        ],
+                        "EAN": [
+                            "0767311946006"
+                        ],
+                        "ASIN": [
+                            "B08DD2YV11"
+                        ]
+                    },
+                    "titles": {
+                        "en": "Rubber Stamp Making Kit, Linoleum Carving Tools with 2 Rubber Carving Blocks, 1 Whetstone, Craft Knife and Rice Paper for Printmaking, Linoleum Block, Brayer Rollers, Stamping Tools"
+                    },
+                    "brand": "HOTOOLME",
+                    "imageUrl": "https://m.media-amazon.com/images/I/41LHQB1T0wL.jpg",
+                    "description": "Rubber Stamp Making Kit, Linoleum Carving Tools with 2 Rubber Carving Blocks, 1 Whetstone, Craft Knife and Rice Paper for Printmaking, Linoleum Block, Brayer Rollers, Stamping Tools",
+                    "packageDimensions": {
+                        "width": {
+                            "value": 11.85,
+                            "unit": "INCH"
+                        },
+                        "length": {
+                            "value": 14.29,
+                            "unit": "INCH"
+                        },
+                        "height": {
+                            "value": 2.32,
+                            "unit": "INCH"
+                        },
+                        "weight": {
+                            "value": 53.28,
+                            "unit": "OUNCE"
+                        },
+                        "origin": "OFFICIAL"
+                    },
+                    "msrp": {
+                        "currencyCode": "USD",
+                        "amount": 36.99
+                    }
+                },
+                "offers": [
+                    {
+                        "marketBrand": "EBAY",
+                        "countryCode": "US",
+                        "offers": {
+                            "NEW": {
+                                "marketPrice": {
+                                    "currencyCode": "USD",
+                                    "amount": 20.91
+                                },
+                                "marketPlaceFees": {
+                                    "currencyCode": "USD",
+                                    "amount": 1.88
+                                },
+                                "taxAmount": {
+                                    "currencyCode": "USD",
+                                    "amount": 0.0
+                                },
+                                "listingUrl": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=2&toolid=10044&campid=5337909775&customid=algopix-web&lgeo=1&vectorid=229466&item=333817078571",
+                                "insights": [
+                                    "LISTING_IDENTIFIED_USING_KEYWORDS"
+                                ]
+                            }
+                        },
+                        "timestamp": 1616004387,
+                        "marketSpecificData": {
+                            "objectType": "EBAY",
+                            "marketSpecificProductTitle": "6 Pieces Rubber Stamp Making Kit Block Printing Starter Tool Kit, Linoleum With",
+                            "eBayCategories": [
+                                {
+                                    "name": "Stamps",
+                                    "id": "31740",
+                                    "ancestorsPathIds": [
+                                        "14339",
+                                        "3122"
+                                    ],
+                                    "ancestorsPathNames": [
+                                        "Crafts",
+                                        "Stamping & Embossing"
+                                    ]
+                                }
+                            ],
+                            "competition": {
+                                "objectType": "EBAY",
+                                "level": "LOW"
+                            }
+                        },
+                        "imageSet": [
+                            "https://i.ebayimg.com/00/s/MTAwMFgxMDAw/z/7TcAAOSwwyVfzmPZ/$_1.JPG?set_id=2",
+                            "https://i.ebayimg.com/00/s/MTAwMFgxMDAw/z/ASEAAOSwlc1fzmPi/$_1.JPG?set_id=2",
+                            "https://i.ebayimg.com/00/s/MTAwMFgxMDAw/z/CZcAAOSw8NtfzmPk/$_1.JPG?set_id=2",
+                            "https://i.ebayimg.com/00/s/MTAwMFgxMDAw/z/aRkAAOSwbgVfzmPa/$_1.JPG?set_id=2",
+                            "https://i.ebayimg.com/00/s/MTAwMFgxMDAw/z/YvAAAOSw2CNfzmPc/$_1.JPG?set_id=2",
+                            "https://i.ebayimg.com/00/s/MTAwMFgxMDAw/z/u3UAAOSwOopfzmPe/$_1.JPG?set_id=2",
+                            "https://i.ebayimg.com/00/s/MTAwMFgxMDAw/z/mQUAAOSwcuVfzmPg/$_1.JPG?set_id=2"
+                        ]
+                    },
+                    {
+                        "marketBrand": "AMAZON",
+                        "countryCode": "US",
+                        "offers": {
+                            "NEW": {
+                                "marketPrice": {
+                                    "currencyCode": "USD",
+                                    "amount": 36.99
+                                },
+                                "marketPlaceFees": {
+                                    "currencyCode": "USD",
+                                    "amount": 5.55
+                                },
+                                "fbaSellingFees": {
+                                    "currencyCode": "USD",
+                                    "amount": 5.8
+                                },
+                                "taxAmount": {
+                                    "currencyCode": "USD",
+                                    "amount": 0.0
+                                },
+                                "listingUrl": "https://www.amazon.com/dp/B08DD2YV11"
+                            }
+                        },
+                        "timestamp": 1616004387,
+                        "marketSpecificData": {
+                            "objectType": "AMAZON",
+                            "marketSpecificProductTitle": "Rubber Stamp Making Kit, Linoleum Carving Tools with 2 Rubber Carving Blocks, 1 Whetstone, Craft Knife and Rice Paper for Printmaking, Linoleum Block, Brayer Rollers, Stamping Tools",
+                            "estimatedSalesRevenues": {
+                                "currencyCode": "USD",
+                                "amount": 521.56
+                            },
+                            "estimatedUnitSold": 14,
+                            "competition": {
+                                "objectType": "AMAZON",
+                                "level": "LOW",
+                                "numberOfOffers": 1,
+                                "lowestOfferFromReputableSeller": {
+                                    "price": {
+                                        "currencyCode": "USD",
+                                        "amount": 36.99
+                                    },
+                                    "sellerRating": {
+                                        "positiveFeedbackRating": "98-100%",
+                                        "numberOfSellerRatings": 302
+                                    }
+                                },
+                                "lowestOffer": {
+                                    "price": {
+                                        "currencyCode": "USD",
+                                        "amount": 36.99
+                                    },
+                                    "sellerRating": {
+                                        "positiveFeedbackRating": "98-100%",
+                                        "numberOfSellerRatings": 302
+                                    }
+                                },
+                                "buyBoxOffering": {
+                                    "price": {
+                                        "currencyCode": "USD",
+                                        "amount": 36.99
+                                    },
+                                    "sellerRating": {
+                                        "positiveFeedbackRating": "98-100%",
+                                        "numberOfSellerRatings": 302
+                                    }
+                                },
+                                "amazonOfferState": "NOT_SOLD_BY_AMAZON"
+                            },
+                            "localAsin": "B08DD2YV11",
+                            "amazonCategories": [
+                                {
+                                    "name": "Art and craft supply",
+                                    "id": "art_and_craft_supply_display_on_website",
+                                    "bestSellerRanking": 72123
+                                },
+                                {
+                                    "name": "Brayers",
+                                    "id": "12898611",
+                                    "bestSellerRanking": 43,
+                                    "ancestorsPathIds": [
+                                        "2617941011",
+                                        "2617942011",
+                                        "12898451",
+                                        "12898581"
+                                    ],
+                                    "ancestorsPathNames": [
+                                        "Arts,Crafts & Sewing",
+                                        "Arts, Crafts & Sewing",
+                                        "Printmaking",
+                                        "Relief & Block Printing Materials"
+                                    ]
+                                }
+                            ],
+                            "soldViaFBA": true,
+                            "numberOfOffersSoldViaFBA": 1,
+                            "customerRatingInfo": {
+                                "ratingScore": 3.5,
+                                "numberOfRaters": 7
+                            }
+                        },
+                        "imageSet": [
+                            "https://m.media-amazon.com/images/I/41LHQB1T0wL.jpg"
+                        ]
+                    },
+                    {
+                        "marketBrand": "AMAZON",
+                        "countryCode": "GB",
+                        "offers": {
+                            "NEW": {
+                                "listingUrl": "https://www.amazon.co.uk/dp/B08DD2YV11",
+                                "insights": [
+                                    "OUT_OF_STOCK_ITEM"
+                                ]
+                            }
+                        },
+                        "timestamp": 1616004387,
+                        "marketSpecificData": {
+                            "objectType": "AMAZON",
+                            "marketSpecificProductTitle": "Rubber Stamp Making Kit, Printing Starter Tool Kit with 2 Rubber Carving Blocks, 1 Whetstone, Carving Knive and Rice Paper for Printmaking, Inking Blocks, Carved Surfaces or Stamping Tools",
+                            "estimatedSalesRevenues": {
+                                "currencyCode": "USD",
+                                "amount": 0.0
+                            },
+                            "estimatedUnitSold": 0,
+                            "competition": {
+                                "objectType": "AMAZON"
+                            },
+                            "localAsin": "B08DD2YV11",
+                            "amazonCategories": [
+                                {
+                                    "name": "Art and craft supply",
+                                    "id": "art_and_craft_supply_display_on_website",
+                                    "bestSellerRanking": 72123
+                                },
+                                {
+                                    "name": "Brayers",
+                                    "id": "12898611",
+                                    "bestSellerRanking": 43,
+                                    "ancestorsPathIds": [
+                                        "2617941011",
+                                        "2617942011",
+                                        "12898451",
+                                        "12898581"
+                                    ],
+                                    "ancestorsPathNames": [
+                                        "Arts,Crafts & Sewing",
+                                        "Arts, Crafts & Sewing",
+                                        "Printmaking",
+                                        "Relief & Block Printing Materials"
+                                    ]
+                                }
+                            ],
+                            "customerRatingInfo": {
+                                "ratingScore": 3.5,
+                                "numberOfRaters": 7
+                            }
+                        },
+                        "imageSet": [
+                            "https://m.media-amazon.com/images/I/41LHQB1T0wL.jpg"
+                        ]
+                    }
+                ],
+                "demand": {
+                    "GB": 3,
+                    "US": 3
+                }
+            }
+        },
+        {
+            "timestamp": 1616004513,
+            "status": "SUCCESS",
+            "statusCode": 200,
+            "requestId": "29d6bce2-799b-4b8e-ade5-e412ec0a6766",
+            "result": {
+                "itemDetails": {
+                    "aid": "AID4ZB581001",
+                    "ids": {
+                        "UPC": [
+                            "651032041365"
+                        ],
+                        "EAN": [
+                            "0651032041365"
+                        ],
+                        "ASIN": [
+                            "B000BYVMIE"
+                        ]
+                    },
+                    "titles": {
+                        "en": "Speedball 4136 Block Printing Press - Adjustable Height Model B Steel Press For Printmaking"
+                    },
+                    "model": "4136",
+                    "color": "Black",
+                    "brand": "Speedball",
+                    "imageUrl": "https://m.media-amazon.com/images/I/41fMWtJY8sL.jpg",
+                    "itemDimensions": {
+                        "width": {
+                            "value": 3.88,
+                            "unit": "INCH"
+                        },
+                        "length": {
+                            "value": 10.0,
+                            "unit": "INCH"
+                        },
+                        "height": {
+                            "value": 9.62,
+                            "unit": "INCH"
+                        },
+                        "weight": {
+                            "value": 96.0,
+                            "unit": "OUNCE"
+                        },
+                        "origin": "OFFICIAL"
+                    },
+                    "packageDimensions": {
+                        "width": {
+                            "value": 6.5,
+                            "unit": "INCH"
+                        },
+                        "length": {
+                            "value": 9.25,
+                            "unit": "INCH"
+                        },
+                        "height": {
+                            "value": 2.25,
+                            "unit": "INCH"
+                        },
+                        "weight": {
+                            "value": 0.97,
+                            "unit": "OUNCE"
+                        },
+                        "origin": "ALGOPIX_ESTIMATED"
+                    },
+                    "msrp": {
+                        "currencyCode": "USD",
+                        "amount": 79.07
+                    }
+                },
+                "offers": [
+                    {
+                        "marketBrand": "EBAY",
+                        "countryCode": "US",
+                        "offers": {
+                            "NEW": {
+                                "marketPrice": {
+                                    "currencyCode": "USD",
+                                    "amount": 98.25
+                                },
+                                "marketPlaceFees": {
+                                    "currencyCode": "USD",
+                                    "amount": 8.84
+                                },
+                                "taxAmount": {
+                                    "currencyCode": "USD",
+                                    "amount": 0.0
+                                },
+                                "listingUrl": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=2&toolid=10044&campid=5337909775&customid=algopix-web&lgeo=1&vectorid=229466&item=313356832357",
+                                "insights": [
+                                    "LISTING_PRICE_INCLUDES_SHIPPING",
+                                    "LISTING_IDENTIFIED_USING_KEYWORDS"
+                                ]
+                            }
+                        },
+                        "timestamp": 1616004513,
+                        "marketSpecificData": {
+                            "objectType": "EBAY",
+                            "marketSpecificProductTitle": "SPEEDBALL MODEL B PRESS",
+                            "eBayCategories": [
+                                {
+                                    "name": "Screen Printing Sets & Kits",
+                                    "id": "183116",
+                                    "ancestorsPathIds": [
+                                        "14339",
+                                        "11783",
+                                        "183106",
+                                        "183113"
+                                    ],
+                                    "ancestorsPathNames": [
+                                        "Crafts",
+                                        "Art Supplies",
+                                        "Printmaking",
+                                        "Screen Printing"
+                                    ]
+                                }
+                            ],
+                            "competition": {
+                                "objectType": "EBAY",
+                                "level": "LOW"
+                            }
+                        },
+                        "imageSet": [
+                            "https://i.ebayimg.com/00/s/MTEwMFgxMTAw/z/i1gAAOSwfeJgNr4S/$_1.JPG?set_id=2"
+                        ]
+                    },
+                    {
+                        "marketBrand": "AMAZON",
+                        "countryCode": "US",
+                        "offers": {
+                            "NEW": {
+                                "listingUrl": "https://www.amazon.com/dp/B000BYVMIE?th=1&psc=1",
+                                "insights": [
+                                    "OUT_OF_STOCK_ITEM"
+                                ]
+                            }
+                        },
+                        "timestamp": 1616004513,
+                        "marketSpecificData": {
+                            "objectType": "AMAZON",
+                            "marketSpecificProductTitle": "Speedball 4136 Block Printing Press - Adjustable Height Model B Steel Press For Printmaking",
+                            "estimatedSalesRevenues": {
+                                "currencyCode": "USD",
+                                "amount": 1035.82
+                            },
+                            "estimatedUnitSold": 13,
+                            "competition": {
+                                "objectType": "AMAZON"
+                            },
+                            "localAsin": "B000BYVMIE",
+                            "amazonCategories": [
+                                {
+                                    "name": "Kitchen",
+                                    "id": "kitchen_display_on_website",
+                                    "bestSellerRanking": 917596
+                                },
+                                {
+                                    "id": "3000338031",
+                                    "bestSellerRanking": 155
+                                }
+                            ],
+                            "customerRatingInfo": {
+                                "ratingScore": 3.8,
+                                "numberOfRaters": 109
+                            }
+                        },
+                        "imageSet": [
+                            "https://m.media-amazon.com/images/I/41fMWtJY8sL.jpg"
+                        ]
+                    },
+                    {
+                        "marketBrand": "AMAZON",
+                        "countryCode": "GB",
+                        "offers": {
+                            "NEW": {
+                                "listingUrl": "https://www.amazon.co.uk/dp/B000BYVMIE?th=1&psc=1",
+                                "insights": [
+                                    "OUT_OF_STOCK_ITEM"
+                                ]
+                            }
+                        },
+                        "timestamp": 1616004513,
+                        "marketSpecificData": {
+                            "objectType": "AMAZON",
+                            "marketSpecificProductTitle": "Speedball 4136 Block Printing Press - Adjustable Height Model B Steel Press For Printmaking",
+                            "estimatedSalesRevenues": {
+                                "currencyCode": "USD",
+                                "amount": 0.0
+                            },
+                            "estimatedUnitSold": 0,
+                            "competition": {
+                                "objectType": "AMAZON"
+                            },
+                            "localAsin": "B000BYVMIE",
+                            "amazonCategories": [
+                                {
+                                    "name": "Kitchen",
+                                    "id": "kitchen_display_on_website",
+                                    "bestSellerRanking": 917596
+                                },
+                                {
+                                    "id": "3000338031",
+                                    "bestSellerRanking": 155
+                                }
+                            ],
+                            "customerRatingInfo": {
+                                "ratingScore": 3.8,
+                                "numberOfRaters": 109
+                            }
+                        },
+                        "imageSet": [
+                            "https://m.media-amazon.com/images/I/41fMWtJY8sL.jpg"
+                        ]
+                    }
+                ],
+                "demand": {
+                    "GB": 1,
+                    "US": 1
+                }
+            }
+        },
+        {
+            "timestamp": 1616004516,
+            "status": "SUCCESS",
+            "statusCode": 200,
+            "requestId": "85405999-f448-40f2-9c59-a6761f4d7c3e",
+            "result": {
+                "itemDetails": {
+                    "aid": "AIDIVL391001",
+                    "ids": {
+                        "UPC": [
+                            "705814113273"
+                        ],
+                        "EAN": [
+                            "0705814113273"
+                        ],
+                        "ASIN": [
+                            "B07V76BLJW"
+                        ]
+                    },
+                    "titles": {
+                        "en": "2Pcs Rubber Roller Brayer Rollers Hard Rubber 3.8 and 2.2 Inch for Printmaking (Black) by HRLORKC"
+                    },
+                    "model": "HRLORKC",
+                    "brand": "HRLORKC",
+                    "imageUrl": "https://m.media-amazon.com/images/I/41UE3haE45L.jpg",
+                    "itemDimensions": {
+                        "width": {
+                            "value": 3.8,
+                            "unit": "INCH"
+                        },
+                        "length": {
+                            "value": 4.6,
+                            "unit": "INCH"
+                        },
+                        "height": {
+                            "value": 1.0,
+                            "unit": "INCH"
+                        },
+                        "origin": "OFFICIAL"
+                    },
+                    "msrp": {
+                        "currencyCode": "USD",
+                        "amount": 9.99
+                    }
+                },
+                "offers": [
+                    {
+                        "marketBrand": "AMAZON",
+                        "countryCode": "US",
+                        "offers": {
+                            "NEW": {
+                                "marketPrice": {
+                                    "currencyCode": "USD",
+                                    "amount": 9.99
+                                },
+                                "marketPlaceFees": {
+                                    "currencyCode": "USD",
+                                    "amount": 1.5
+                                },
+                                "fbaSellingFees": {
+                                    "currencyCode": "USD",
+                                    "amount": 3.48
+                                },
+                                "taxAmount": {
+                                    "currencyCode": "USD",
+                                    "amount": 0.0
+                                },
+                                "listingUrl": "https://www.amazon.com/dp/B07V76BLJW"
+                            }
+                        },
+                        "timestamp": 1616004516,
+                        "marketSpecificData": {
+                            "objectType": "AMAZON",
+                            "marketSpecificProductTitle": "2Pcs Rubber Roller Brayer Rollers Hard Rubber 3.8 and 2.2 Inch for Printmaking (Black) by HRLORKC",
+                            "estimatedSalesRevenues": {
+                                "currencyCode": "USD",
+                                "amount": 9990.0
+                            },
+                            "estimatedUnitSold": 1000,
+                            "competition": {
+                                "objectType": "AMAZON",
+                                "level": "LOW",
+                                "numberOfOffers": 1,
+                                "lowestOfferFromReputableSeller": {
+                                    "price": {
+                                        "currencyCode": "USD",
+                                        "amount": 9.99
+                                    },
+                                    "sellerRating": {
+                                        "positiveFeedbackRating": "95-97%",
+                                        "numberOfSellerRatings": 964
+                                    }
+                                },
+                                "lowestOffer": {
+                                    "price": {
+                                        "currencyCode": "USD",
+                                        "amount": 9.99
+                                    },
+                                    "sellerRating": {
+                                        "positiveFeedbackRating": "95-97%",
+                                        "numberOfSellerRatings": 964
+                                    }
+                                },
+                                "buyBoxOffering": {
+                                    "price": {
+                                        "currencyCode": "USD",
+                                        "amount": 9.99
+                                    },
+                                    "sellerRating": {
+                                        "positiveFeedbackRating": "95-97%",
+                                        "numberOfSellerRatings": 964
+                                    }
+                                },
+                                "amazonOfferState": "NOT_SOLD_BY_AMAZON"
+                            },
+                            "localAsin": "B07V76BLJW",
+                            "amazonCategories": [
+                                {
+                                    "name": "Art and craft supply",
+                                    "id": "art_and_craft_supply_display_on_website",
+                                    "bestSellerRanking": 1124
+                                },
+                                {
+                                    "name": "Brayers",
+                                    "id": "12898611",
+                                    "bestSellerRanking": 2,
+                                    "ancestorsPathIds": [
+                                        "2617941011",
+                                        "2617942011",
+                                        "12898451",
+                                        "12898581"
+                                    ],
+                                    "ancestorsPathNames": [
+                                        "Arts, Crafts & Sewing",
+                                        "Categories",
+                                        "Printmaking",
+                                        "Relief & Block Printing Materials"
+                                    ]
+                                }
+                            ],
+                            "soldViaFBA": true,
+                            "numberOfOffersSoldViaFBA": 1,
+                            "customerRatingInfo": {
+                                "ratingScore": 4.7,
+                                "numberOfRaters": 2393
+                            }
+                        },
+                        "imageSet": [
+                            "https://m.media-amazon.com/images/I/41UE3haE45L.jpg"
+                        ]
+                    },
+                    {
+                        "marketBrand": "AMAZON",
+                        "countryCode": "GB",
+                        "offers": {
+                            "NEW": {
+                                "marketPrice": {
+                                    "currencyCode": "USD",
+                                    "amount": 29.71
+                                },
+                                "marketPlaceFees": {
+                                    "currencyCode": "USD",
+                                    "amount": 11.76
+                                },
+                                "fbaSellingFees": {
+                                    "currencyCode": "USD",
+                                    "amount": 3.07
+                                },
+                                "taxAmount": {
+                                    "currencyCode": "USD",
+                                    "amount": 6.02
+                                },
+                                "listingUrl": "https://www.amazon.co.uk/dp/B07V76BLJW",
+                                "insights": [
+                                    "LISTING_PRICE_INCLUDES_SHIPPING",
+                                    "LISTED_BY_A_LOW_RANKED_SELLER",
+                                    "CROSS_CHANNEL_COMPETITION"
+                                ]
+                            }
+                        },
+                        "timestamp": 1616004516,
+                        "marketSpecificData": {
+                            "objectType": "AMAZON",
+                            "marketSpecificProductTitle": "2Pcs Rubber Roller Brayer Rollers Hard Rubber 3.8 and 2.2 Inch for Printmaking (Black) by HRLORKC",
+                            "estimatedSalesRevenues": {
+                                "currencyCode": "USD",
+                                "amount": 59.41
+                            },
+                            "estimatedUnitSold": 2,
+                            "competition": {
+                                "objectType": "AMAZON",
+                                "level": "LOW",
+                                "numberOfOffers": 1,
+                                "lowestOfferFromReputableSeller": {
+                                    "price": {
+                                        "currencyCode": "USD",
+                                        "amount": 29.71
+                                    },
+                                    "sellerRating": {
+                                        "positiveFeedbackRating": "Just Launched",
+                                        "numberOfSellerRatings": 0
+                                    }
+                                },
+                                "lowestOffer": {
+                                    "price": {
+                                        "currencyCode": "USD",
+                                        "amount": 29.71
+                                    },
+                                    "sellerRating": {
+                                        "positiveFeedbackRating": "Just Launched",
+                                        "numberOfSellerRatings": 0
+                                    }
+                                },
+                                "buyBoxOffering": {
+                                    "price": {
+                                        "currencyCode": "USD",
+                                        "amount": 29.71
+                                    },
+                                    "sellerRating": {
+                                        "positiveFeedbackRating": "Just Launched",
+                                        "numberOfSellerRatings": 0
+                                    }
+                                },
+                                "amazonOfferState": "NOT_SOLD_BY_AMAZON"
+                            },
+                            "localAsin": "B07V76BLJW",
+                            "amazonCategories": [
+                                {
+                                    "name": "Art and craft supply",
+                                    "id": "art_and_craft_supply_display_on_website",
+                                    "bestSellerRanking": 1124
+                                },
+                                {
+                                    "name": "Brayers",
+                                    "id": "12898611",
+                                    "bestSellerRanking": 2,
+                                    "ancestorsPathIds": [
+                                        "2617941011",
+                                        "2617942011",
+                                        "12898451",
+                                        "12898581"
+                                    ],
+                                    "ancestorsPathNames": [
+                                        "Arts, Crafts & Sewing",
+                                        "Categories",
+                                        "Printmaking",
+                                        "Relief & Block Printing Materials"
+                                    ]
+                                }
+                            ],
+                            "soldViaFBA": false,
+                            "numberOfOffersSoldViaFBA": 0,
+                            "customerRatingInfo": {
+                                "ratingScore": 4.7,
+                                "numberOfRaters": 2393
+                            }
+                        },
+                        "imageSet": [
+                            "https://m.media-amazon.com/images/I/41UE3haE45L.jpg"
+                        ]
+                    },
+                    {
+                        "marketBrand": "WALMART",
+                        "countryCode": "US",
+                        "offers": {
+                            "NEW": {
+                                "marketPrice": {
+                                    "currencyCode": "USD",
+                                    "amount": 16.94
+                                },
+                                "marketPlaceFees": {
+                                    "currencyCode": "USD",
+                                    "amount": 2.54
+                                },
+                                "taxAmount": {
+                                    "currencyCode": "USD",
+                                    "amount": 0.0
+                                },
+                                "listingUrl": "http://c.affil.walmart.com/t/api01?l=https%3A%2F%2Fwww.walmart.com%2Fip%2F2Pcs-Rubber-Roller-Brayer-Rollers-Hard-Rubber-3-8-and-2-2-Inch-for-Printmaking-Black-by-HRLORKC%2F986907399%3Faffp1%3D%7Capk%7C%26affilsrc%3Dapi%26veh%3Daff%26wmlspartner%3Dreadonlyapi",
+                                "insights": [
+                                    "CROSS_CHANNEL_COMPETITION"
+                                ]
+                            }
+                        },
+                        "timestamp": 1616004516,
+                        "marketSpecificData": {
+                            "objectType": "WALMART",
+                            "marketSpecificProductTitle": "2Pcs Rubber Roller Brayer Rollers Hard Rubber 3.8 and 2.2 Inch for Printmaking (Black) by HRLORKC",
+                            "walmartItemId": "986907399",
+                            "walmartCategories": [
+                                {
+                                    "name": "Paint Tools and Supplies",
+                                    "id": "1067621",
+                                    "ancestorsPathIds": [
+                                        "1072864",
+                                        "1067617"
+                                    ],
+                                    "ancestorsPathNames": [
+                                        "Home Improvement",
+                                        "Paint"
+                                    ]
+                                }
+                            ],
+                            "estimatedSalesRevenues": {
+                                "currencyCode": "USD",
+                                "amount": 0.0
+                            },
+                            "estimatedUnitSold": 0,
+                            "competition": {
+                                "objectType": "WALMART",
+                                "level": "LOW"
+                            }
+                        },
+                        "imageSet": [
+                            "https://i5.walmartimages.com/asr/e30b0133-ca5a-46e2-a53d-9068e394e1f6.32048b3ef54fd65ee4800cfd9659a3da.jpeg?odnHeight=450&odnWidth=450&odnBg=FFFFFF"
+                        ]
+                    },
+                    {
+                        "marketBrand": "EBAY",
+                        "countryCode": "US",
+                        "offers": {
+                            "NEW": {
+                                "marketPrice": {
+                                    "currencyCode": "USD",
+                                    "amount": 17.32
+                                },
+                                "marketPlaceFees": {
+                                    "currencyCode": "USD",
+                                    "amount": 1.56
+                                },
+                                "taxAmount": {
+                                    "currencyCode": "USD",
+                                    "amount": 0.0
+                                },
+                                "listingUrl": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=2&toolid=10044&campid=5337909775&customid=algopix-web&lgeo=1&vectorid=229466&item=184650930592",
+                                "insights": [
+                                    "CROSS_CHANNEL_COMPETITION",
+                                    "LISTING_IDENTIFIED_USING_KEYWORDS"
+                                ]
+                            }
+                        },
+                        "timestamp": 1616004516,
+                        "marketSpecificData": {
+                            "objectType": "EBAY",
+                            "marketSpecificProductTitle": "2Pcs Rubber Roller Brayer Rollers Hard Rubber 3.8 and 2.2 Inch for Printmakin...",
+                            "eBayCategories": [
+                                {
+                                    "name": "Other Painting Supplies",
+                                    "id": "11785",
+                                    "ancestorsPathIds": [
+                                        "14339",
+                                        "11783",
+                                        "28110"
+                                    ],
+                                    "ancestorsPathNames": [
+                                        "Crafts",
+                                        "Art Supplies",
+                                        "Painting Supplies"
+                                    ]
+                                }
+                            ],
+                            "competition": {
+                                "objectType": "EBAY",
+                                "level": "LOW"
+                            }
+                        },
+                        "imageSet": [
+                            "https://i.ebayimg.com/00/s/NTAwWDUwMA==/z/y7wAAOSw65lgHQrk/$_1.JPG?set_id=2",
+                            "https://i.ebayimg.com/00/s/NTAwWDUwMA==/z/~3UAAOSwzHdgHQrk/$_1.JPG?set_id=2",
+                            "https://i.ebayimg.com/00/s/NTAwWDUwMA==/z/5uMAAOSwgTRgHQrk/$_1.JPG?set_id=2",
+                            "https://i.ebayimg.com/00/s/NTAwWDUwMA==/z/SesAAOSwrg5gHQrl/$_1.JPG?set_id=2",
+                            "https://i.ebayimg.com/00/s/NTAwWDUwMA==/z/9jMAAOSw~-dgHQrl/$_1.JPG?set_id=2",
+                            "https://i.ebayimg.com/00/s/NTAwWDUwMA==/z/55MAAOSwQBtgHQrl/$_1.JPG?set_id=2",
+                            "https://i.ebayimg.com/00/s/NTAwWDUwMA==/z/v7kAAOSw3UFgHQrk/$_1.JPG?set_id=2",
+                            "https://i.ebayimg.com/00/s/NTAwWDUwMA==/z/Qf8AAOSw4ttgHQrk/$_1.JPG?set_id=2"
+                        ]
+                    }
+                ],
+                "demand": {
+                    "GB": 7,
+                    "US": 7
+                }
+            }
+        },
+        {
+            "timestamp": 1616004638,
+            "status": "SUCCESS",
+            "statusCode": 200,
+            "requestId": "1455e5e9-123a-4e81-97bb-81b66ef8818b",
+            "result": {
+                "itemDetails": {
+                    "aid": "AID0NGCH6001",
+                    "ids": {
+                        "ASIN": [
+                            "B08XWVS4NR"
+                        ]
+                    },
+                    "titles": {
+                        "en": "Vudu for Fire TV"
+                    },
+                    "brand": "Fandango, Inc",
+                    "imageUrl": "https://m.media-amazon.com/images/I/41vDYB+7+HL._SL500_.png",
+                    "msrp": {
+                        "currencyCode": "USD",
+                        "amount": 0.0
+                    }
+                },
+                "offers": [
+                    {
+                        "marketBrand": "AMAZON",
+                        "countryCode": "US",
+                        "offers": {
+                            "NEW": {
+                                "marketPrice": {
+                                    "currencyCode": "USD",
+                                    "amount": 0.0
+                                },
+                                "marketPlaceFees": {
+                                    "currencyCode": "USD",
+                                    "amount": 0.0
+                                },
+                                "taxAmount": {
+                                    "currencyCode": "USD",
+                                    "amount": 0.0
+                                },
+                                "listingUrl": "https://www.amazon.com/dp/B08XWVS4NR",
+                                "insights": [
+                                    "LISTED_BY_A_LOW_RANKED_SELLER"
+                                ]
+                            }
+                        },
+                        "timestamp": 1616004638,
+                        "marketSpecificData": {
+                            "objectType": "AMAZON",
+                            "marketSpecificProductTitle": "Vudu for Fire TV",
+                            "estimatedSalesRevenues": {
+                                "currencyCode": "USD",
+                                "amount": 0.0
+                            },
+                            "estimatedUnitSold": 0,
+                            "competition": {
+                                "objectType": "AMAZON",
+                                "level": "LOW",
+                                "lowestOfferFromReputableSeller": {
+                                    "price": {
+                                        "currencyCode": "USD",
+                                        "amount": 0.0
+                                    },
+                                    "sellerRating": {
+                                        "positiveFeedbackRating": "Just Launched",
+                                        "numberOfSellerRatings": 0
+                                    }
+                                },
+                                "lowestOffer": {
+                                    "price": {
+                                        "currencyCode": "USD",
+                                        "amount": 0.0
+                                    },
+                                    "sellerRating": {
+                                        "positiveFeedbackRating": "Just Launched",
+                                        "numberOfSellerRatings": 0
+                                    }
+                                },
+                                "buyBoxOffering": {},
+                                "amazonOfferState": "DATA_NOT_AVAILABLE"
+                            },
+                            "localAsin": "B08XWVS4NR",
+                            "amazonCategories": [
+                                {
+                                    "name": "Mobile application",
+                                    "id": "mobile_application_display_on_website",
+                                    "bestSellerRanking": 87
+                                },
+                                {
+                                    "name": "On-Demand Movie Streaming",
+                                    "id": "9408766011",
+                                    "bestSellerRanking": 7,
+                                    "ancestorsPathIds": [
+                                        "2350149011",
+                                        "9209898011",
+                                        "9408765011"
+                                    ],
+                                    "ancestorsPathNames": [
+                                        "Apps & Games",
+                                        "Categories",
+                                        "Movies & TV"
+                                    ]
+                                }
+                            ],
+                            "soldViaFBA": false,
+                            "numberOfOffersSoldViaFBA": 0,
+                            "customerRatingInfo": {
+                                "ratingScore": 3.2,
+                                "numberOfRaters": 22
+                            }
+                        },
+                        "imageSet": [
+                            "https://m.media-amazon.com/images/I/41vDYB+7+HL.jpg"
+                        ]
+                    },
+                    {
+                        "marketBrand": "AMAZON",
+                        "countryCode": "GB",
+                        "offers": {
+                            "NEW": {
+                                "listingUrl": "https://www.amazon.co.uk/dp/B08XWVS4NR",
+                                "insights": [
+                                    "OUT_OF_STOCK_ITEM"
+                                ]
+                            }
+                        },
+                        "timestamp": 1616004638,
+                        "marketSpecificData": {
+                            "objectType": "AMAZON",
+                            "marketSpecificProductTitle": "Vudu for Fire TV",
+                            "estimatedSalesRevenues": {
+                                "currencyCode": "USD",
+                                "amount": 0.0
+                            },
+                            "estimatedUnitSold": 0,
+                            "competition": {
+                                "objectType": "AMAZON"
+                            },
+                            "localAsin": "B08XWVS4NR",
+                            "amazonCategories": [
+                                {
+                                    "name": "Mobile application",
+                                    "id": "mobile_application_display_on_website",
+                                    "bestSellerRanking": 87
+                                },
+                                {
+                                    "name": "On-Demand Movie Streaming",
+                                    "id": "9408766011",
+                                    "bestSellerRanking": 7,
+                                    "ancestorsPathIds": [
+                                        "2350149011",
+                                        "9209898011",
+                                        "9408765011"
+                                    ],
+                                    "ancestorsPathNames": [
+                                        "Apps & Games",
+                                        "Categories",
+                                        "Movies & TV"
+                                    ]
+                                }
+                            ],
+                            "customerRatingInfo": {
+                                "ratingScore": 3.2,
+                                "numberOfRaters": 22
+                            }
+                        },
+                        "imageSet": [
+                            "https://m.media-amazon.com/images/I/41vDYB+7+HL.jpg"
+                        ]
+                    }
+                ],
+                "demand": {
+                    "GB": 10,
+                    "US": 10
+                }
+            }
+        },
+        {
+            "timestamp": 1616004639,
+            "status": "SUCCESS",
+            "statusCode": 200,
+            "requestId": "b32c9895-2b94-4d8e-91dd-d8670aed93f6",
+            "result": {
+                "itemDetails": {
+                    "aid": "AIDG3N5M3001",
+                    "ids": {
+                        "UPC": [
+                            "815820021308"
+                        ],
+                        "EAN": [
+                            "0815820021308"
+                        ],
+                        "ASIN": [
+                            "B08F7PTF54"
+                        ],
+                        "PARENT_ASIN": [
+                            "B08J926K2M"
+                        ]
+                    },
+                    "titles": {
+                        "en": "Oculus Quest 2 — Advanced All-In-One Virtual Reality Headset — 256 GB"
+                    },
+                    "model": "301-00351-01",
+                    "brand": "Oculus",
+                    "imageUrl": "https://m.media-amazon.com/images/I/31MPSDnQmUL.jpg",
+                    "itemDimensions": {
+                        "weight": {
+                            "value": 29.28,
+                            "unit": "OUNCE"
+                        },
+                        "origin": "OFFICIAL"
+                    },
+                    "msrp": {
+                        "currencyCode": "USD",
+                        "amount": 399.0
+                    }
+                },
+                "offers": [
+                    {
+                        "marketBrand": "EBAY",
+                        "countryCode": "US",
+                        "offers": {
+                            "NEW": {
+                                "marketPrice": {
+                                    "currencyCode": "USD",
+                                    "amount": 372.44
+                                },
+                                "marketPlaceFees": {
+                                    "currencyCode": "USD",
+                                    "amount": 22.35
+                                },
+                                "taxAmount": {
+                                    "currencyCode": "USD",
+                                    "amount": 0.0
+                                },
+                                "listingUrl": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=2&toolid=10044&campid=5337909775&customid=algopix-web&lgeo=1&vectorid=229466&item=143980253024",
+                                "insights": [
+                                    "LISTING_PRICE_INCLUDES_SHIPPING",
+                                    "LISTING_IDENTIFIED_USING_KEYWORDS"
+                                ]
+                            }
+                        },
+                        "timestamp": 1616004639,
+                        "marketSpecificData": {
+                            "objectType": "EBAY",
+                            "marketSpecificProductTitle": "Oculus Quest 2 Advanced All-In-One Virtual Reality Headset 256GB NEW Other",
+                            "eBayCategories": [
+                                {
+                                    "name": "PC & Console VR Headsets",
+                                    "id": "183068",
+                                    "ancestorsPathIds": [
+                                        "293",
+                                        "183067"
+                                    ],
+                                    "ancestorsPathNames": [
+                                        "Consumer Electronics",
+                                        "Virtual Reality"
+                                    ]
+                                }
+                            ],
+                            "competition": {
+                                "objectType": "EBAY",
+                                "level": "MEDIUM"
+                            }
+                        },
+                        "imageSet": [
+                            "https://i.ebayimg.com/00/s/MTQ5Nlg4ODQ=/z/s0gAAOSwUstgRlvW/$_12.JPG?set_id=880000500F",
+                            "https://i.ebayimg.com/00/s/MTIwMFgxNjAw/z/kRcAAOSw7ctgRluQ/$_12.JPG?set_id=880000500F",
+                            "https://i.ebayimg.com/00/s/MTYwMFgxMjAw/z/RWEAAOSwc4xgRluX/$_12.JPG?set_id=880000500F",
+                            "https://i.ebayimg.com/00/s/MTIwMFgxNjAw/z/qOQAAOSw8HpgRlzv/$_12.JPG?set_id=880000500F",
+                            "https://i.ebayimg.com/00/s/MTMwN1gxMTg0/z/qusAAOSw1O9gRlw2/$_12.JPG?set_id=880000500F",
+                            "https://i.ebayimg.com/00/s/MTU4MVgxMDI2/z/qMoAAOSw1btgRlxX/$_12.JPG?set_id=880000500F",
+                            "https://i.ebayimg.com/00/s/MTMwN1gxMDk0/z/koUAAOSw0sxgRlv3/$_12.JPG?set_id=880000500F",
+                            "https://i.ebayimg.com/00/s/MTIwMFgxNjAw/z/Ej0AAOSw4NFgRluV/$_12.JPG?set_id=880000500F",
+                            "https://i.ebayimg.com/00/s/MTIwMVgxMTkz/z/jOUAAOSwikxgRlwW/$_12.JPG?set_id=880000500F",
+                            "https://i.ebayimg.com/00/s/MTIwMFgxNjAw/z/7L4AAOSwkG1gRluO/$_12.JPG?set_id=880000500F",
+                            "https://i.ebayimg.com/00/s/ODgwWDE2MDA=/z/-nkAAOSwJDhgRluu/$_12.JPG?set_id=880000500F"
+                        ]
+                    },
+                    {
+                        "marketBrand": "AMAZON",
+                        "countryCode": "US",
+                        "offers": {
+                            "NEW": {
+                                "marketPrice": {
+                                    "currencyCode": "USD",
+                                    "amount": 399.0
+                                },
+                                "marketPlaceFees": {
+                                    "currencyCode": "USD",
+                                    "amount": 59.85
+                                },
+                                "fbaSellingFees": {
+                                    "currencyCode": "USD",
+                                    "amount": 6.29
+                                },
+                                "taxAmount": {
+                                    "currencyCode": "USD",
+                                    "amount": 0.0
+                                },
+                                "listingUrl": "https://www.amazon.com/dp/B08F7PTF54"
+                            }
+                        },
+                        "timestamp": 1616004639,
+                        "marketSpecificData": {
+                            "objectType": "AMAZON",
+                            "marketSpecificProductTitle": "Oculus Quest 2 — Advanced All-In-One Virtual Reality Headset — 256 GB",
+                            "competition": {
+                                "objectType": "AMAZON",
+                                "level": "HIGH",
+                                "numberOfOffers": 93,
+                                "lowestOfferFromReputableSeller": {
+                                    "price": {
+                                        "currencyCode": "USD",
+                                        "amount": 399.0
+                                    },
+                                    "sellerRating": {
+                                        "positiveFeedbackRating": "98-100%",
+                                        "numberOfSellerRatings": 109239
+                                    }
+                                },
+                                "lowestOffer": {
+                                    "price": {
+                                        "currencyCode": "USD",
+                                        "amount": 399.0
+                                    },
+                                    "sellerRating": {
+                                        "positiveFeedbackRating": "98-100%",
+                                        "numberOfSellerRatings": 109239
+                                    }
+                                },
+                                "buyBoxOffering": {
+                                    "price": {
+                                        "currencyCode": "USD",
+                                        "amount": 399.0
+                                    },
+                                    "sellerRating": {
+                                        "positiveFeedbackRating": "98-100%",
+                                        "numberOfSellerRatings": 109239
+                                    }
+                                },
+                                "amazonOfferState": "DATA_NOT_AVAILABLE"
+                            },
+                            "localAsin": "B08F7PTF54",
+                            "amazonCategories": [
+                                {
+                                    "name": "Headsets",
+                                    "id": "21479456011",
+                                    "ancestorsPathIds": [
+                                        "468642",
+                                        "11846801",
+                                        "21479453011",
+                                        "21479454011"
+                                    ],
+                                    "ancestorsPathNames": [
+                                        "Video Games",
+                                        "Categories",
+                                        "Virtual Reality",
+                                        "Standalone Hardware"
+                                    ]
+                                }
+                            ],
+                            "soldViaFBA": true,
+                            "numberOfOffersSoldViaFBA": 2,
+                            "customerRatingInfo": {
+                                "ratingScore": 4.8,
+                                "numberOfRaters": 30476
+                            }
+                        },
+                        "imageSet": [
+                            "https://m.media-amazon.com/images/I/31MPSDnQmUL.jpg"
+                        ]
+                    },
+                    {
+                        "marketBrand": "WALMART",
+                        "countryCode": "US",
+                        "offers": {
+                            "NEW": {
+                                "marketPrice": {
+                                    "currencyCode": "USD",
+                                    "amount": 399.0
+                                },
+                                "marketPlaceFees": {
+                                    "currencyCode": "USD",
+                                    "amount": 59.85
+                                },
+                                "taxAmount": {
+                                    "currencyCode": "USD",
+                                    "amount": 0.0
+                                },
+                                "listingUrl": "http://c.affil.walmart.com/t/api01?l=https%3A%2F%2Fwww.walmart.com%2Fip%2FOculus-Quest-2-Advanced-All-In-One-Virtual-Reality-Headset-256-GB%2F949146211%3Faffp1%3D%7Capk%7C%26affilsrc%3Dapi%26veh%3Daff%26wmlspartner%3Dreadonlyapi"
+                            }
+                        },
+                        "timestamp": 1616004639,
+                        "marketSpecificData": {
+                            "objectType": "WALMART",
+                            "marketSpecificProductTitle": "Oculus Quest 2- Advanced All-In-One Virtual Reality Headset, 256 GB",
+                            "walmartItemId": "949146211",
+                            "walmartCategories": [
+                                {
+                                    "name": "Oculus VR Headsets",
+                                    "id": "4123144",
+                                    "ancestorsPathIds": [
+                                        "2636",
+                                        "5454301"
+                                    ],
+                                    "ancestorsPathNames": [
+                                        "Video Games",
+                                        "Virtual Reality"
+                                    ]
+                                }
+                            ],
+                            "estimatedSalesRevenues": {
+                                "currencyCode": "USD",
+                                "amount": 0.0
+                            },
+                            "estimatedUnitSold": 0,
+                            "competition": {
+                                "objectType": "WALMART",
+                                "level": "HIGH"
+                            }
+                        },
+                        "imageSet": [
+                            "https://i5.walmartimages.com/asr/fce18ccb-0cb1-4a62-a148-100dfe22ac39.cbbc327f6c70bbe78713b0f1b2998ec7.jpeg?odnHeight=450&odnWidth=450&odnBg=FFFFFF",
+                            "https://i5.walmartimages.com/asr/277fe6ff-9a75-41b3-8286-c6d6a1a84f34.5d1b67581d459d890129fb981175bbd7.jpeg?odnHeight=450&odnWidth=450&odnBg=FFFFFF",
+                            "https://i5.walmartimages.com/asr/edb61f3f-138b-4c25-b222-337e3aef0765.eb6417112369cbcc319963cf2074dddc.jpeg?odnHeight=450&odnWidth=450&odnBg=FFFFFF",
+                            "https://i5.walmartimages.com/asr/feec5c43-03cf-4f00-b4e9-3ad17bf9b9fe.017b067cff8b356e97aae82dfbb5a6f4.jpeg?odnHeight=450&odnWidth=450&odnBg=FFFFFF",
+                            "https://i5.walmartimages.com/asr/c8176ccd-7dd2-4afa-bb04-0264a64d05d4.871d9d807a41c68f595eb4dd21da592c.jpeg?odnHeight=450&odnWidth=450&odnBg=FFFFFF",
+                            "https://i5.walmartimages.com/asr/8436307c-be55-4052-9d22-9365b7ea6170.d417f6dcaa614a27d5f1791030d998ff.jpeg?odnHeight=450&odnWidth=450&odnBg=FFFFFF",
+                            "https://i5.walmartimages.com/asr/7b5d1c2b-405c-484f-8469-f6c630e39882.bc44aa461babfbe83c2765b247a7430d.jpeg?odnHeight=450&odnWidth=450&odnBg=FFFFFF",
+                            "https://i5.walmartimages.com/asr/ec9b75b6-bd75-4509-947b-8c6905aa210a.e3237628635c52d76cbdda6b41572094.jpeg?odnHeight=450&odnWidth=450&odnBg=FFFFFF",
+                            "https://i5.walmartimages.com/asr/2b890e42-f39c-4efb-8c8e-1d194308306f.80cb767d8fa0ccc0bb4fe88e403c0d76.jpeg?odnHeight=450&odnWidth=450&odnBg=FFFFFF",
+                            "https://i5.walmartimages.com/asr/16a9974e-a5b0-4cad-a98e-730148409bef.3e8858a1d3beb01ff2fbc79a880beedf.jpeg?odnHeight=450&odnWidth=450&odnBg=FFFFFF"
+                        ]
+                    },
+                    {
+                        "marketBrand": "AMAZON",
+                        "countryCode": "GB",
+                        "offers": {
+                            "NEW": {
+                                "listingUrl": "https://www.amazon.co.uk/dp/B08F7PTF54",
+                                "insights": [
+                                    "OUT_OF_STOCK_ITEM"
+                                ]
+                            }
+                        },
+                        "timestamp": 1616004639,
+                        "marketSpecificData": {
+                            "objectType": "AMAZON",
+                            "marketSpecificProductTitle": "PC Headset with Microphone",
+                            "competition": {
+                                "objectType": "AMAZON"
+                            },
+                            "localAsin": "B08F7PTF54",
+                            "amazonCategories": [
+                                {
+                                    "name": "Headsets",
+                                    "id": "21479456011",
+                                    "ancestorsPathIds": [
+                                        "468642",
+                                        "11846801",
+                                        "21479453011",
+                                        "21479454011"
+                                    ],
+                                    "ancestorsPathNames": [
+                                        "Video Games",
+                                        "Categories",
+                                        "Virtual Reality",
+                                        "Standalone Hardware"
+                                    ]
+                                }
+                            ],
+                            "customerRatingInfo": {
+                                "ratingScore": 4.8,
+                                "numberOfRaters": 30476
+                            }
+                        },
+                        "imageSet": [
+                            "https://m.media-amazon.com/images/I/31MPSDnQmUL.jpg"
+                        ]
+                    }
+                ],
+                "demand": {
+                    "GB": -1,
+                    "US": -1
+                }
+            }
+        },
+        {
+            "timestamp": 1616004751,
+            "status": "SUCCESS",
+            "statusCode": 200,
+            "requestId": "1c6d858a-8b55-43ca-a7b2-14905e8ee816",
+            "result": {
+                "itemDetails": {
+                    "aid": "AIDWMWP71001",
+                    "ids": {
+                        "ASIN": [
+                            "B001WL4WWI"
+                        ],
+                        "PARENT_ASIN": [
+                            "B08S5J6KTS"
+                        ],
+                        "EAN": [
+                            "0841158099894",
+                            "0841158099610"
+                        ],
+                        "UPC": [
+                            "841158099894",
+                            "841158099610"
+                        ]
+                    },
+                    "titles": {
+                        "en": "Crocs unisex adult Classic | Water Shoes Comfortable Slip on Shoes Clog, Lavender, 8 Women 6 Men US"
+                    },
+                    "model": "10001-530",
+                    "color": "Lavender",
+                    "size": "8 Women/6 Men",
+                    "brand": "Crocs",
+                    "imageUrl": "https://m.media-amazon.com/images/I/31Wktk+scoL.jpg",
+                    "description": "Crocs unisex adult Classic | Water Shoes Comfortable Slip on Shoes Clog, Lavender, 8 Women 6 Men US",
+                    "itemDimensions": {
+                        "width": {
+                            "value": 0.39,
+                            "unit": "INCH"
+                        },
+                        "length": {
+                            "value": 0.39,
+                            "unit": "INCH"
+                        },
+                        "height": {
+                            "value": 0.39,
+                            "unit": "INCH"
+                        },
+                        "weight": {
+                            "value": 3.84,
+                            "unit": "OUNCE"
+                        },
+                        "origin": "OFFICIAL"
+                    },
+                    "packageDimensions": {
+                        "width": {
+                            "value": 10.43,
+                            "unit": "INCH"
+                        },
+                        "length": {
+                            "value": 11.46,
+                            "unit": "INCH"
+                        },
+                        "height": {
+                            "value": 4.17,
+                            "unit": "INCH"
+                        },
+                        "weight": {
+                            "value": 10.88,
+                            "unit": "OUNCE"
+                        },
+                        "origin": "OFFICIAL"
+                    },
+                    "msrp": {
+                        "currencyCode": "USD",
+                        "amount": 44.99
+                    }
+                },
+                "offers": [
+                    {
+                        "marketBrand": "AMAZON",
+                        "countryCode": "GB",
+                        "offers": {
+                            "NEW": {
+                                "marketPrice": {
+                                    "currencyCode": "USD",
+                                    "amount": 34.64
+                                },
+                                "marketPlaceFees": {
+                                    "currencyCode": "USD",
+                                    "amount": 5.31
+                                },
+                                "fbaSellingFees": {
+                                    "currencyCode": "USD",
+                                    "amount": 3.21
+                                },
+                                "taxAmount": {
+                                    "currencyCode": "USD",
+                                    "amount": 7.02
+                                },
+                                "listingUrl": "https://www.amazon.co.uk/dp/B001WL4WWI?th=1&psc=1",
+                                "insights": [
+                                    "CROSS_CHANNEL_COMPETITION"
+                                ]
+                            }
+                        },
+                        "timestamp": 1616004750,
+                        "marketSpecificData": {
+                            "objectType": "AMAZON",
+                            "marketSpecificProductTitle": "Crocs Classic Unisex Adults T-Bar Pumps, Purple (Lavender), 5 UK Men/6 UK Women",
+                            "estimatedSalesRevenues": {
+                                "currencyCode": "USD",
+                                "amount": 22629.03
+                            },
+                            "estimatedUnitSold": 653,
+                            "competition": {
+                                "objectType": "AMAZON",
+                                "level": "MEDIUM",
+                                "numberOfOffers": 4,
+                                "lowestOfferFromReputableSeller": {
+                                    "price": {
+                                        "currencyCode": "USD",
+                                        "amount": 34.64
+                                    },
+                                    "sellerRating": {
+                                        "positiveFeedbackRating": "98-100%",
+                                        "numberOfSellerRatings": 233769
+                                    }
+                                },
+                                "lowestOffer": {
+                                    "price": {
+                                        "currencyCode": "USD",
+                                        "amount": 34.64
+                                    },
+                                    "sellerRating": {
+                                        "positiveFeedbackRating": "98-100%",
+                                        "numberOfSellerRatings": 233769
+                                    }
+                                },
+                                "buyBoxOffering": {
+                                    "price": {
+                                        "currencyCode": "USD",
+                                        "amount": 34.64
+                                    },
+                                    "sellerRating": {
+                                        "positiveFeedbackRating": "98-100%",
+                                        "numberOfSellerRatings": 233769
+                                    }
+                                },
+                                "amazonOfferState": "SOLD_BY_AMAZON"
+                            },
+                            "localAsin": "B001WL4WWI",
+                            "amazonCategories": [
+                                {
+                                    "name": "Fashion",
+                                    "id": "fashion_display_on_website",
+                                    "bestSellerRanking": 2
+                                },
+                                {
+                                    "name": "Mules & Clogs",
+                                    "id": "3420996011",
+                                    "bestSellerRanking": 1,
+                                    "ancestorsPathIds": [
+                                        "7141123011",
+                                        "7141124011",
+                                        "7147441011",
+                                        "679255011"
+                                    ],
+                                    "ancestorsPathNames": [
+                                        "Clothing,Shoes & Jewelry",
+                                        "Clothing, Shoes & Jewelry",
+                                        "Men",
+                                        "Shoes"
+                                    ]
+                                },
+                                {
+                                    "name": "Shops",
+                                    "id": "7581668011",
+                                    "bestSellerRanking": 1,
+                                    "ancestorsPathIds": [
+                                        "7141123011",
+                                        "7141124011",
+                                        "7147440011"
+                                    ],
+                                    "ancestorsPathNames": [
+                                        "Clothing,Shoes & Jewelry",
+                                        "Clothing, Shoes & Jewelry",
+                                        "Women"
+                                    ]
+                                },
+                                {
+                                    "name": "Mules & Clogs",
+                                    "id": "679410011",
+                                    "bestSellerRanking": 1,
+                                    "ancestorsPathIds": [
+                                        "7141123011",
+                                        "7141124011",
+                                        "7147440011",
+                                        "679337011"
+                                    ],
+                                    "ancestorsPathNames": [
+                                        "Clothing,Shoes & Jewelry",
+                                        "Clothing, Shoes & Jewelry",
+                                        "Women",
+                                        "Shoes"
+                                    ]
+                                }
+                            ],
+                            "soldViaFBA": true,
+                            "numberOfOffersSoldViaFBA": 1,
+                            "customerRatingInfo": {
+                                "ratingScore": 4.8,
+                                "numberOfRaters": 169081
+                            }
+                        },
+                        "imageSet": [
+                            "https://m.media-amazon.com/images/I/31+uJf+vd4L.jpg"
+                        ]
+                    },
+                    {
+                        "marketBrand": "EBAY",
+                        "countryCode": "US",
+                        "offers": {
+                            "NEW": {
+                                "marketPrice": {
+                                    "currencyCode": "USD",
+                                    "amount": 29.99
+                                },
+                                "marketPlaceFees": {
+                                    "currencyCode": "USD",
+                                    "amount": 2.7
+                                },
+                                "taxAmount": {
+                                    "currencyCode": "USD",
+                                    "amount": 0.0
+                                },
+                                "listingUrl": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=2&toolid=10044&campid=5337909775&customid=algopix-web&lgeo=1&vectorid=229466&item=233908469646",
+                                "insights": [
+                                    "LISTING_IDENTIFIED_USING_KEYWORDS"
+                                ]
+                            }
+                        },
+                        "timestamp": 1616004750,
+                        "marketSpecificData": {
+                            "objectType": "EBAY",
+                            "marketSpecificProductTitle": "Crocs Adult Classic Clogs Water Slip-On Shoes Slippers White 6 Men's 8 Women's",
+                            "eBayCategories": [
+                                {
+                                    "name": "Slippers",
+                                    "id": "11505",
+                                    "ancestorsPathIds": [
+                                        "11450",
+                                        "260012",
+                                        "93427"
+                                    ],
+                                    "ancestorsPathNames": [
+                                        "Clothing, Shoes & Accessories",
+                                        "Men",
+                                        "Men's Shoes"
+                                    ]
+                                }
+                            ],
+                            "competition": {
+                                "objectType": "EBAY",
+                                "level": "MEDIUM"
+                            }
+                        },
+                        "imageSet": [
+                            "https://i.ebayimg.com/00/s/MTUwMFgxNTAw/z/ofYAAOSw8vJfxpPR/$_12.JPG?set_id=880000500F",
+                            "https://i.ebayimg.com/00/s/MTUwMFgxNTAw/z/0dQAAOSwvrRfxpPN/$_12.JPG?set_id=880000500F",
+                            "https://i.ebayimg.com/00/s/MTUwMFgxNTAw/z/axEAAOSwj9BfxpPH/$_12.JPG?set_id=880000500F",
+                            "https://i.ebayimg.com/00/s/MTUwMFgxNTAw/z/HisAAOSwoShfxpPK/$_12.JPG?set_id=880000500F",
+                            "https://i.ebayimg.com/00/s/MTUwMFgxNTAw/z/n8cAAOSw0t9fxpPP/$_12.JPG?set_id=880000500F"
+                        ]
+                    },
+                    {
+                        "marketBrand": "AMAZON",
+                        "countryCode": "US",
+                        "offers": {
+                            "NEW": {
+                                "marketPrice": {
+                                    "currencyCode": "USD",
+                                    "amount": 44.95
+                                },
+                                "marketPlaceFees": {
+                                    "currencyCode": "USD",
+                                    "amount": 6.74
+                                },
+                                "fbaSellingFees": {
+                                    "currencyCode": "USD",
+                                    "amount": 3.48
+                                },
+                                "taxAmount": {
+                                    "currencyCode": "USD",
+                                    "amount": 0.0
+                                },
+                                "listingUrl": "https://www.amazon.com/dp/B001WL4WWI?th=1&psc=1",
+                                "insights": [
+                                    "CROSS_CHANNEL_COMPETITION"
+                                ]
+                            }
+                        },
+                        "timestamp": 1616004750,
+                        "marketSpecificData": {
+                            "objectType": "AMAZON",
+                            "marketSpecificProductTitle": "Crocs unisex adult Classic | Water Shoes Comfortable Slip on Shoes Clog, Lavender, 8 Women 6 Men US",
+                            "estimatedSalesRevenues": {
+                                "currencyCode": "USD",
+                                "amount": 809100.0
+                            },
+                            "estimatedUnitSold": 18000,
+                            "competition": {
+                                "objectType": "AMAZON",
+                                "level": "LOW",
+                                "numberOfOffers": 3,
+                                "lowestOfferFromReputableSeller": {
+                                    "price": {
+                                        "currencyCode": "USD",
+                                        "amount": 44.95
+                                    },
+                                    "sellerRating": {
+                                        "positiveFeedbackRating": "98-100%",
+                                        "numberOfSellerRatings": 233769
+                                    }
+                                },
+                                "lowestOffer": {
+                                    "price": {
+                                        "currencyCode": "USD",
+                                        "amount": 44.95
+                                    },
+                                    "sellerRating": {
+                                        "positiveFeedbackRating": "98-100%",
+                                        "numberOfSellerRatings": 233769
+                                    }
+                                },
+                                "buyBoxOffering": {
+                                    "price": {
+                                        "currencyCode": "USD",
+                                        "amount": 44.95
+                                    },
+                                    "sellerRating": {
+                                        "positiveFeedbackRating": "98-100%",
+                                        "numberOfSellerRatings": 233769
+                                    }
+                                },
+                                "amazonOfferState": "DATA_NOT_AVAILABLE"
+                            },
+                            "localAsin": "B001WL4WWI",
+                            "amazonCategories": [
+                                {
+                                    "name": "Fashion",
+                                    "id": "fashion_display_on_website",
+                                    "bestSellerRanking": 2
+                                },
+                                {
+                                    "name": "Mules & Clogs",
+                                    "id": "3420996011",
+                                    "bestSellerRanking": 1,
+                                    "ancestorsPathIds": [
+                                        "7141123011",
+                                        "7141124011",
+                                        "7147441011",
+                                        "679255011"
+                                    ],
+                                    "ancestorsPathNames": [
+                                        "Clothing,Shoes & Jewelry",
+                                        "Clothing, Shoes & Jewelry",
+                                        "Men",
+                                        "Shoes"
+                                    ]
+                                },
+                                {
+                                    "name": "Shops",
+                                    "id": "7581668011",
+                                    "bestSellerRanking": 1,
+                                    "ancestorsPathIds": [
+                                        "7141123011",
+                                        "7141124011",
+                                        "7147440011"
+                                    ],
+                                    "ancestorsPathNames": [
+                                        "Clothing,Shoes & Jewelry",
+                                        "Clothing, Shoes & Jewelry",
+                                        "Women"
+                                    ]
+                                },
+                                {
+                                    "name": "Mules & Clogs",
+                                    "id": "679410011",
+                                    "bestSellerRanking": 1,
+                                    "ancestorsPathIds": [
+                                        "7141123011",
+                                        "7141124011",
+                                        "7147440011",
+                                        "679337011"
+                                    ],
+                                    "ancestorsPathNames": [
+                                        "Clothing,Shoes & Jewelry",
+                                        "Clothing, Shoes & Jewelry",
+                                        "Women",
+                                        "Shoes"
+                                    ]
+                                }
+                            ],
+                            "soldViaFBA": true,
+                            "numberOfOffersSoldViaFBA": 1,
+                            "customerRatingInfo": {
+                                "ratingScore": 4.8,
+                                "numberOfRaters": 169081
+                            }
+                        },
+                        "imageSet": [
+                            "https://m.media-amazon.com/images/I/31Wktk+scoL.jpg"
+                        ]
+                    },
+                    {
+                        "marketBrand": "WALMART",
+                        "countryCode": "US",
+                        "offers": {
+                            "NEW": {
+                                "marketPrice": {
+                                    "currencyCode": "USD",
+                                    "amount": 44.96
+                                },
+                                "marketPlaceFees": {
+                                    "currencyCode": "USD",
+                                    "amount": 6.74
+                                },
+                                "taxAmount": {
+                                    "currencyCode": "USD",
+                                    "amount": 0.0
+                                },
+                                "listingUrl": "http://c.affil.walmart.com/t/api01?l=https%3A%2F%2Fwww.walmart.com%2Fip%2FCrocs-Unisex-Classic-Clog%2F680278914%3Faffp1%3D%7Capk%7C%26affilsrc%3Dapi%26veh%3Daff%26wmlspartner%3Dreadonlyapi",
+                                "insights": [
+                                    "CROSS_CHANNEL_COMPETITION",
+                                    "OUT_OF_STOCK_ITEM"
+                                ]
+                            }
+                        },
+                        "timestamp": 1616004750,
+                        "marketSpecificData": {
+                            "objectType": "WALMART",
+                            "marketSpecificProductTitle": "Crocs Unisex Classic Clog",
+                            "walmartItemId": "680278914",
+                            "walmartCategories": [
+                                {
+                                    "name": "Crocs",
+                                    "id": "7497982",
+                                    "ancestorsPathIds": [
+                                        "3734780",
+                                        "8552699"
+                                    ],
+                                    "ancestorsPathNames": [
+                                        "Shop by Brand",
+                                        "Clothing, Footwear & Jewlery"
+                                    ]
+                                }
+                            ],
+                            "estimatedSalesRevenues": {
+                                "currencyCode": "USD",
+                                "amount": 242711.98
+                            },
+                            "estimatedUnitSold": 5398,
+                            "competition": {
+                                "objectType": "WALMART",
+                                "level": "LOW"
+                            }
+                        },
+                        "imageSet": [
+                            "https://i5.walmartimages.com/asr/c1a21bbc-521c-475a-b0b6-b329168345a3_1.896ac7ba49de2f7845e7ab2711888345.jpeg?odnHeight=450&odnWidth=450&odnBg=FFFFFF",
+                            "https://i5.walmartimages.com/asr/eb54b104-7c9d-4bf6-8f89-cec567268115_1.b9c5ddf14a8bca68b913f80240aed366.jpeg?odnHeight=450&odnWidth=450&odnBg=FFFFFF",
+                            "https://i5.walmartimages.com/asr/0724d8f2-ab7e-4dd1-98d3-4a88387921d9_1.0b2c941552d253ec28cb414fc5b78874.jpeg?odnHeight=450&odnWidth=450&odnBg=FFFFFF",
+                            "https://i5.walmartimages.com/asr/e9f2a687-e432-4345-a3c9-093e7444821a_1.ea820dce357a024cb0b7da25a610d9d9.jpeg?odnHeight=450&odnWidth=450&odnBg=FFFFFF",
+                            "https://i5.walmartimages.com/asr/d9348dd7-04d7-4a91-973b-525c09d6e69b_1.84c81d2a49c8bd842b8f3701c87e36bd.jpeg?odnHeight=450&odnWidth=450&odnBg=FFFFFF"
+                        ]
+                    }
+                ],
+                "demand": {
+                    "GB": 10,
+                    "US": 10
+                }
+            }
+        }
+    ],
+    "asyncApiStatus": {
+        "resultsReadyCount": 12,
+        "pendingRequestCount": 0
+    }
+}
